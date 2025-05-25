@@ -1,4 +1,3 @@
-# medical-consulting-assistant
 # 醫療輔助諮詢專家系統
 
 本專題整合 LINE Bot 與 Dify 語言模型，建構醫療衛教輔助諮詢平台，協助使用者根據身分取得即時醫療知識。
